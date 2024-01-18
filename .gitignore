@@ -1,0 +1,11 @@
+.vscode/
+*.class
+*.jar
+*.war
+*.ear
+*.logs
+*.iml
+.eclipse
+.settings
+.classpath
+/bin/
